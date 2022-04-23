@@ -4,7 +4,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/maj34%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 
-
+!['s github stats](https://github-readme-stats.vercel.app/api?username=아이디&show_icons=true)
 
 
 <!--
