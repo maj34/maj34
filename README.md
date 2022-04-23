@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=FD866E&height=300&section=header&text=WELCOME&fontColor=ffffff&fontSize=80&rotate=20&animation=fadeIn&reversal=false&desc=10&fontAlign=70&fontAlignY=20)
+![header](https://capsule-render.vercel.app/api?type=slice&color=FD866E&height=300&section=header&text=WELCOME&fontColor=ffffff&fontSize=80&rotate=20&animation=fadeIn&reversal=false&desc=10&fontAlign=70&fontAlignY=30)
 
  <a href="https://www.instagram.com/my_sticalnd_34" target="_blank"><img src="https://img.shields.io/badge/Instagram-24405f?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
