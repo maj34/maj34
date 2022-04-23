@@ -2,6 +2,11 @@
 
  <a href="https://www.instagram.com/my_sticalnd_34" target="_blank"><img src="https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/maj34%2Fhit-counter)](https://hits.seeyoufarm.com)                    
+
+
+
+
 <!--
 **maj34/maj34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
