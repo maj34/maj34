@@ -1,17 +1,18 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0&height=300&section=header&text=WELCOME&fontColor=ffffff&fontSize=80&rotate=20&animation=fadeIn&reversal=false&fontAlign=70&fontAlignY=25&desc=%20This%20is%20MinJeong-Ma's%20Github&descSize=25&FontSize=50&descAlign=73&descAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=27&height=300&section=header&text=WELCOME&fontColor=ffffff&fontSize=80&rotate=20&animation=fadeIn&reversal=false&fontAlign=70&fontAlignY=25&desc=%20This%20is%20MinJeong-Ma's%20Github&descSize=25&FontSize=50&descAlign=73&descAlignY=40)
 
 
 ## Hi there 👋
 Hello, I'm MinJeong Ma, dreaming of becoming a Data Scientist!
 
-I will graduate from Kookmin University in August, 2023, with **a major in AI Big Data & Mangement** as my main major, and a minor in Computer Science.
+I will graduate from Kookmin University in August, 2023, with **a major in AI Big Data & Mangement** as my main major, 
+and a minor in Computer Science.
 
 
 ## Contact
-Email : maminjeong3199@gmail.com
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/s-59009c8636394e96a0e5ebd0f5fe748c)
 [![LinkedIn](https://img.shields.io/badge/Linked_In-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%EB%AF%BC%EC%A0%95-%EB%A7%88-1822b31a5/)
 [![Instagram](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/my_sticalnd_34) 
+[![Mail](https://img.shields.io/badge/maminjeong3199@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](maminjeong3199@gmail.com)
 
 
 ## Technical Skills
