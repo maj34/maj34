@@ -2,13 +2,13 @@
 
 
 ## Hi there 👋
-Hello, I'm MinJeong Ma, dreaming of becoming a **AI Researcher** specializing in Computer Vision!
+Hello, I'm MinJeong Ma, dreaming of becoming a **AI Researcher** specializing in Computer Vision :)
 
 I am going to graduate from Kookmin University in August 2023, 
 
 major in **AI Big Data & Management**, and minor in Computer Science.
 
-\
+
 
 ## Contact
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/s-59009c8636394e96a0e5ebd0f5fe748c)
@@ -16,7 +16,7 @@ major in **AI Big Data & Management**, and minor in Computer Science.
 [![Instagram](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/my_sticalnd_34) 
 [![Mail](https://img.shields.io/badge/maminjeong3199@gmail.com-e10915?style=flat-square&logo=Gmail&logoColor=white)](maminjeong3199@gmail.com)
 
-\
+
 
 ## Technical Skills
 #### Languages & Development Tools
@@ -29,30 +29,15 @@ major in **AI Big Data & Management**, and minor in Computer Science.
 #### Platform
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 
-\
+
 
 ## Hits
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/maj34%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 
-\
+
 
 ## GitHub Stats
 ![MinJeong-Ma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maj34&show_icons=true&theme=swift)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=27&height=150&section=footer)
-
-<!--
-**maj34/maj34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
