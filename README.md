@@ -4,7 +4,7 @@
 ## Hi there 👋
 Hello, I'm MinJeong Ma, dreaming of becoming a Data Scientist!
 
-I will graduate from Kookmin University in August, 2023, with **a major in AI Big Data & Mangement** as my main major, 
+I will graduate from Kookmin University in August, 2023, with **a major in AI Big Data & Mangement** as my main major, \n
 and a minor in Computer Science.
 
 
