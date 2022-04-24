@@ -1,10 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=27&height=300&section=header&text=WELCOME&fontColor=ffffff&fontSize=80&rotate=20&animation=fadeIn&reversal=false&fontAlign=70&fontAlignY=25&desc=%20This%20is%20MinJeong-Ma's%20Github&descSize=25&FontSize=50&descAlign=73&descAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=27&height=200&section=header&text=WELCOME&fontColor=ffffff&fontSize=70&rotate=13&animation=fadeIn&reversal=false&fontAlign=75&fontAlignY=25&desc=%20This%20is%20MinJeong's%20Github&desczSize=24&FontSize=50&descAlign=81&descAlignY=43)
 
 
 ## Hi there 👋
 Hello, I'm MinJeong Ma, dreaming of becoming a Data Scientist!
 
-I will graduate from Kookmin University in August, 2023, with **a major in AI Big Data & Mangement** as my main major, and a minor in Computer Science.
+I will graduate from Kookmin University in August, 2023, with **a major in AI Big Data & Mangement** as my main major, 
+
+and a minor in Computer Science.
 
 
 ## Contact
@@ -32,6 +34,8 @@ I will graduate from Kookmin University in August, 2023, with **a major in AI Bi
 ## GitHub Stats
 ![MinJeong-Ma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maj34&show_icons=true&theme=swift)
 
+
+![footer](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=27&height=200&section=footer)
 
 <!--
 **maj34/maj34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
