@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=FD866E&height=300&section=header&text=WELCOME&fontColor=ffffff&fontSize=80&rotate=20&animation=fadeIn&reversal=false&desc=10&fontAlign=70&fontAlignY=30&desc=%20This%20is%20MinJeong-Ma's%20Github&descSize=20&FontSize=40&descAlign=70&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=slice&color=FD866E&height=300&section=header&text=WELCOME&fontColor=ffffff&fontSize=80&rotate=20&animation=fadeIn&reversal=false&fontAlign=70&fontAlignY=25&desc=%20This%20is%20MinJeong-Ma's%20Github&descSize=25&FontSize=50&descAlign=73&descAlignY=40)
 
  <a href="https://www.instagram.com/my_sticalnd_34" target="_blank"><img src="https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
