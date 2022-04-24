@@ -2,11 +2,11 @@
 
 
 ## Hi there 👋
-Hello, I'm MinJeong Ma, dreaming of becoming a Data Scientist!
+Hello, I'm MinJeong Ma, dreaming of becoming a AI Researcher and specializing in Computer Vision!
 
-I will graduate from Kookmin University in August, 2023, with **a major in AI Big Data & Mangement** 
+I am going to graduate from Kookmin University in August 2023, 
 
-as my main major, and a minor in Computer Science.
+major in **AI Big Data & Management**, and minor in **Computer Science**.
 
 
 ## Contact
@@ -36,7 +36,7 @@ as my main major, and a minor in Computer Science.
 ![MinJeong-Ma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maj34&show_icons=true&theme=swift)
 
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=27&height=200&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=27&height=150&section=footer)
 
 <!--
 **maj34/maj34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
