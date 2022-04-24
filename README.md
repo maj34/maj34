@@ -1,10 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=FD866E&height=300&section=header&text=WELCOME&fontColor=ffffff&fontSize=80&rotate=20&animation=fadeIn&reversal=false&desc=10&fontAlign=70&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=slice&color=FD866E&height=300&section=header&text=WELCOME&fontColor=ffffff&fontSize=80&rotate=20&animation=fadeIn&reversal=false&desc=10&fontAlign=70&fontAlignY=30&desc=%20This%20is%20MinJeong-Ma's%20Github&descSize=20&FontSize=40&descAlign=70&descAlignY=70)
 
  <a href="https://www.instagram.com/my_sticalnd_34" target="_blank"><img src="https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/maj34%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 
 ![maj34's github stats](https://github-readme-stats.vercel.app/api?username=maj34&show_icons=true)
+
 
 
 <!--
