@@ -14,8 +14,8 @@ major in **AI Big Data & Management**, and minor in Computer Science.
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/s-59009c8636394e96a0e5ebd0f5fe748c)
 [![LinkedIn](https://img.shields.io/badge/Linked_In-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%EB%AF%BC%EC%A0%95-%EB%A7%88-1822b31a5/)
 [![Instagram](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/my_sticalnd_34) 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://plastic-distance-9d4.notion.site/MinJeong-Ma-a207a39e685048e8ba3d7076f2f04f64)
 [![Mail](https://img.shields.io/badge/maminjeong3199@gmail.com-e10915?style=flat-square&logo=Gmail&logoColor=white)](maminjeong3199@gmail.com)
-
 
 
 ## Technical Skills
