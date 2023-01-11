@@ -2,7 +2,7 @@
 
 
 ## Hi there 👋
-Hello, I'm MinJeong Ma, dreaming of becoming a **AI Researcher** specializing in Computer Vision :)
+Hello, I'm MinJeong Ma, dreaming of becoming a **AI Developer** specializing in Computer Vision :)
 
 I am going to graduate from Kookmin University in August 2023, 
 
