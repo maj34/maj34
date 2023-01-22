@@ -8,7 +8,7 @@ I am going to graduate from Kookmin University in August 2023,
 
 major in **AI Big Data & Management**, and minor in Computer Science.
 
-
+<br/>
 
 ## Contact
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://plastic-distance-9d4.notion.site/MinJeong-Ma-a207a39e685048e8ba3d7076f2f04f64)
@@ -17,6 +17,7 @@ major in **AI Big Data & Management**, and minor in Computer Science.
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCZQOR1274r6mLTGA45s2Rcg)
 [![Mail](https://img.shields.io/badge/maminjeong3199@gmail.com-e10915?style=flat-square&logo=Gmail&logoColor=white)](maminjeong3199@gmail.com)
 
+<br/>
 
 ## Technical Skills
 #### Languages & Development Tools
@@ -29,12 +30,12 @@ major in **AI Big Data & Management**, and minor in Computer Science.
 #### Platform
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 
-
+<br/>
 
 ## Hits
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/maj34%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 
-
+<br/>
 
 ## GitHub Stats
 ![MinJeong-Ma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maj34&show_icons=true&theme=swift)
