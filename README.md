@@ -4,7 +4,7 @@
 ## Hi There 👋
 Hello, I'm MinJeong Ma, dreaming of becoming a **AI Developer** specializing in Computer Vision :)
 
-I'm going to graduate from Kookmin University in August 2023, 
+I am going to graduate from Kookmin University in August 2023, 
 
 major in **AI Big Data & Management**, and minor in Computer Science.
 
