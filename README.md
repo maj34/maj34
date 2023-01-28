@@ -9,6 +9,8 @@ I am going to graduate from Kookmin University in August 2023,
 
 major in **AI Big Data & Management**, and minor in Computer Science.
 
+I am interested in **Image Anomaly Detection, 3D/Video Object Detection, Object Tracking**, etc. related to Computer Vision.
+
 <br/>
 
 ## Contact
