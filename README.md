@@ -2,7 +2,7 @@
 
 
 
-## Hi There 👋
+## Hi There 👋 
 Hello, I'm MinJeong Ma, dreaming of becoming a **AI Developer** specializing in Computer Vision :)
 
 I am going to graduate from Kookmin University in August 2023, 
