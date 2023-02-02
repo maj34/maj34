@@ -15,8 +15,9 @@ I am interested in **Image Anomaly Detection, 3D/Video Object Detection, Object 
 
 ## Contact
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://plastic-distance-9d4.notion.site/MinJeong-Ma-a207a39e685048e8ba3d7076f2f04f64)
-[![Instagram](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/my_sticalnd_34) 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCZQOR1274r6mLTGA45s2Rcg)
+[![Blog](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://my-sticalnd.tistory.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/my_sticalnd_34) 
 [![Mail](https://img.shields.io/badge/maminjeong3199@gmail.com-e10915?style=flat-square&logo=Gmail&logoColor=white)](maminjeong3199@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Linked_In-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%EB%AF%BC%EC%A0%95-%EB%A7%88-1822b31a5/)
 
