@@ -20,6 +20,8 @@ I am interested in **Image Anomaly Detection, 3D/Video Object Detection, Object 
 [![Instagram](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/my_sticalnd_34) 
 [![Mail](https://img.shields.io/badge/maminjeong3199@gmail.com-e10915?style=flat-square&logo=Gmail&logoColor=white)](maminjeong3199@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Linked_In-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%EB%AF%BC%EC%A0%95-%EB%A7%88-1822b31a5/)
+[![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFCC4D?style=flat-square&logo=HuggingFace&logoColor=white)](https://huggingface.co/maj34)
+
 
 <br/>
 
