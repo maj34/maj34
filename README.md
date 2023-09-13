@@ -19,7 +19,7 @@ I am interested in **Vision-Language, Image Anomaly Detection, 3D/Video Object D
 [![Instagram](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/my_sticalnd_34) 
 [![Blog](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://my-sticalnd.tistory.com/)
 [![Mail](https://img.shields.io/badge/maminjeong3199@gmail.com-e10915?style=flat-square&logo=Gmail&logoColor=white)](maminjeong3199@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Linked_In-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%EB%AF%BC%EC%A0%95-%EB%A7%88-1822b31a5/)
+[![LinkedIn](https://img.shields.io/badge/Linked_In-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/minjeong-ma-1822b31a5/)
 [![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFCC4D?style=flat-square&logo=HuggingFace&logoColor=white)](https://huggingface.co/maj34)
 
 
