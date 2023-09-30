@@ -9,7 +9,7 @@ I graduated from Kookmin University in August 2023, major in **AI Big Data & Man
 
 I'm currently studying in a master's degree in the **DSBA Lab** at Korea University, and am expected to graduate in August 2025.
 
-I am interested in **Vision-Language, Image Anomaly Detection, 3D/Video Object Detection**, etc. related to Computer Vision.
+I am interested in **Vision-Language, Image Anomaly Detection, Self-supervised Learning**, etc. related to Computer Vision.
 
 <br/>
 
