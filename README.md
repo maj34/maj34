@@ -3,13 +3,11 @@
 
  
 ## Hi There 👋 
-Hello, I'm MinJeong Ma, dreaming of becoming a **AI Developer** specializing in Computer Vision :)
-
-I graduated from Kookmin University in August 2023, major in **AI Big Data & Management**, and minor in Computer Science.
+Hello, I'm MinJeong Ma, dreaming of becoming a **AI Developer** specializing in Multimodal Learning :)
 
 I'm currently studying in a master's degree in the **DSBA Lab** at Korea University, and am expected to graduate in August 2025.
 
-I am interested in **Vision-Language, Image Anomaly Detection, Self-supervised Learning**, etc. related to Computer Vision.
+I am interested in **Image-Text Retrieval, Visual Question Anwering, Image/Video Captioning**, etc. related to Vision-Language.
 
 <br/>
 
