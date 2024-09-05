@@ -13,11 +13,11 @@ I am interested in **Image-Text Retrieval, Visual Question Anwering, Image/Video
 
 ## Contact
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://mysticalnd.notion.site/MinJeong-Ma-a207a39e685048e8ba3d7076f2f04f64)
+[![LinkedIn](https://img.shields.io/badge/Linked_In-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/minjeong-ma-1822b31a5/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCZQOR1274r6mLTGA45s2Rcg)
 [![Instagram](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/my_sticalnd_34) 
 [![Blog](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://my-sticalnd.tistory.com/)
 [![Mail](https://img.shields.io/badge/minjeong_ma@korea.ac.kr-e10915?style=flat-square&logo=Gmail&logoColor=white)](minjeong_ma@korea.ac.kr)
-[![LinkedIn](https://img.shields.io/badge/Linked_In-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/minjeong-ma-1822b31a5/)
 [![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFCC4D?style=flat-square&logo=HuggingFace&logoColor=white)](https://huggingface.co/maj34)
 
 
