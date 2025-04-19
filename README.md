@@ -7,7 +7,7 @@ Hello, I'm MinJeong Ma, dreaming of becoming a **AI Developer** specializing in 
 
 I'm currently studying in a master's degree in the **DSBA Lab** at Korea University, and am expected to graduate in August 2025.
 
-I am interested in **Image Captioning, Visual Question Answering, Image-Text Retrieval** related to Vision-Language Model and **Efficient Learning, Retrieval-Augmented Generation** related to Large Language Model.
+I am interested in **Efficient Learning, Retrieval-Augmented Generation** related to Large Language Model and **Image Captioning, Visual Question Answering, Image-Text Retrieval** related to Vision-Language Model.
 
 <br/>
 
