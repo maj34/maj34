@@ -3,7 +3,7 @@
 
  
 ## Hi There 👋 
-Hello, I'm MinJeong Ma, dreaming of becoming a **AI Developer** specializing in Multimodal Learning :)
+Hello, I'm MinJeong Ma, dreaming of becoming a **Data Scientist** :)
 
 I'm currently studying in a master's degree in the **DSBA Lab** at Korea University, and am expected to graduate in August 2025.
 
