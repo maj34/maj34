@@ -34,4 +34,4 @@ I am interested in **Efficient Learning, Retrieval-Augmented Generation** relate
 #### Platform
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/Mac-000000.svg?style=flat-square&logo=macOS&logoColor=white"/>
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=27&height=150&section=footer)
+<!-- ![footer](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=27&height=150&section=footer) -->
