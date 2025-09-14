@@ -3,7 +3,7 @@
 
  
 ## Hi There 👋 
-Hello, I'm MinJeong Ma, dreaming of becoming a **Data Scientist** :)
+Hello, I'm MinJeong Ma, dreaming of becoming an **AI Developer** :)
 
 <!-- I completed my master’s degree at the **DSBA Lab**, Korea University, in August 2025. -->
 
